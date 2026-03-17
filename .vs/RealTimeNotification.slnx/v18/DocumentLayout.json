@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitProjects\\__Github\\RealTimeNotification\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\controllers\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\controllers\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|e:\\gitprojects\\__github\\realtimenotification\\realtimenotification\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{51BD2C72-68A1-4D08-916B-BA5EC8FD0200}|RealTimeNotification\\RealTimeNotification.csproj|solutionrelative:realtimenotification\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "RealTimeNotification\\Controllers\\Auth.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Controllers\\Auth.cs",
+              "RelativeToolTip": "RealTimeNotification\\Controllers\\Auth.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T19:13:13.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\appsettings.json",
+              "RelativeDocumentMoniker": "RealTimeNotification\\appsettings.json",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\appsettings.json",
+              "RelativeToolTip": "RealTimeNotification\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-17T18:18:15.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "RealTimeNotification\\Helpers\\JwtHelper.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "RealTimeNotification\\Helpers\\JwtHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:36:00.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Controllers\\Notification.cs",
+              "RelativeDocumentMoniker": "RealTimeNotification\\Controllers\\Notification.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Controllers\\Notification.cs",
+              "RelativeToolTip": "RealTimeNotification\\Controllers\\Notification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:17:43.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Program.cs",
+              "RelativeDocumentMoniker": "RealTimeNotification\\Program.cs",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\Program.cs",
+              "RelativeToolTip": "RealTimeNotification\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T18:16:50.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "RealTimeNotification\\wwwroot\\index.html",
+              "ToolTip": "E:\\GitProjects\\__Github\\RealTimeNotification\\RealTimeNotification\\wwwroot\\index.html",
+              "RelativeToolTip": "RealTimeNotification\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-17T18:18:29.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

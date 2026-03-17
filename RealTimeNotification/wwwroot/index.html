@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Real-Time Notifications</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.9/signalr.min.js"></script>
+</head>
+<body>
+
+    <h2>Notifications</h2>
+    <ul id="messages"></ul>
+
+    <script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/notificationHub")
+        .build();
+
+    connection.on("ReceiveNotification", function (message) {
+        const li = document.createElement("li");
+        li.textContent = message;
+        document.getElementById("messages").appendChild(li);
+    });
+
+    connection.start()
+        .then(() => console.log("Connected"))
+        .catch(err => console.error(err));
+    </script>
+
+</body>
+</html>
